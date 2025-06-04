@@ -16,5 +16,14 @@ This project is part of an undergraduate thesis at **LABMAN – PUCP** (Pontific
 - Numpy & SciPy
 
 ---
+## Gallery 
+
+![ROI](./images_Tensile/ROI.jpg)
+
+*ROI Selection*
+
+![Segmentation](./images_Tensile/Segt.jpg)
+
+*ROI Segmentation*
 
 *This repository supports research on automating the measurement of deformation parameters in tensile testing environments.*
