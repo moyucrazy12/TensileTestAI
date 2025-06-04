@@ -1,6 +1,6 @@
 # Tensile Testing Analysis with Computer Vision
 
-This project is part of an undergraduate thesis at **LABMAN – PUCP** (Pontificia Universidad Católica del Perú), supervised by **Dr. Carlos Fosca**. It involves the use of **Computer Vision and AI** to assist in the analysis of tensile strength tests on various metal specimens.
+This project is part of an undergraduate thesis at **LABMAN – PUCP** (Pontificia Universidad Católica del Perú). It involves the use of **Computer Vision and AI** to assist in the analysis of tensile strength tests on various metal specimens.
 
 ## Project Overview
 
